@@ -1,71 +1,14 @@
-{
-  "images": [
-    null,
-    {
-      "category": "animal",
-      "name": "crocodile",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/bhmq5b/btsFsZ7ASLZ/kQCdYNvKVaLo4bMltLGvP1/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "elephant",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/bqFb3V/btsFsqqFvNt/BBwYkRv4PaysA2eBUEBSRk/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "lion",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/zDfww/btsFuLabaRS/M62dGGrXVbVAoVjMKIkiyk/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "monkey",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/b983s1/btsFmfdfMVl/wmRlou9KA4GAv1VpsFYZ01/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "rabbit",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/cey9iV/btsFmlRSVL1/m9Qu2tKmRKyNjmfwz2u0F1/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "turtle",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/Sc781/btsFuKbfRAG/HzxraX2GkN214MZ6rj5kg1/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "unicorn",
-      "rate": 2,
-      "url": "https://blog.kakaocdn.net/dn/Mpdlm/btsFoc70fE6/1ymnEMrbrZfENVh44JfaA1/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "lion",
-      "rate": 2,
-      "url": "https://blog.kakaocdn.net/dn/dx2E34/btsFoLoQ6NZ/Z0H8wcDvQY6abmYI3T2g5K/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "monkey",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/N6W2P/btsFmfK6SrH/f1zv508kIFnY14WvyxY4U0/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "unicorn",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/b8Zzjy/btsFuL84lyQ/8k9FyveTTpVBaZR5CFshBK/img.gif"
-    },
-    {
-      "category": "animal",
-      "name": "unicorn",
-      "rate": 1,
-      "url": "https://blog.kakaocdn.net/dn/teWgC/btsFnZgFxyu/GWLK23XC5TWPvxpL98JzAk/img.gif"
-    }
-  ]
-}
+[
+	{ 
+		"category": "animal", 
+		"name": "crocodile",
+		"rate": 1,
+		"url": "https://blog.kakaocdn.net/dn/bhmq5b/btsFsZ7ASLZ/kQCdYNvKVaLo4bMltLGvP1/img.gif"
+	},
+	{ 
+		"category": "animal", 
+		"name": "elephant",
+		"rate": 1,
+		"url": "https://blog.kakaocdn.net/dn/bqFb3V/btsFsqqFvNt/BBwYkRv4PaysA2eBUEBSRk/img.gif"
+	}
+]
