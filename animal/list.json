@@ -1,4 +1,6 @@
-[
+{
+	"images": [
+	
 	{ 
 		"id": 1, "key": 1, "newStatus": 1,
 		"haveAds": 0, "premiumStatus":0,
@@ -15,4 +17,6 @@
 		"rate": 1,
 		"url": "https://blog.kakaocdn.net/dn/bqFb3V/btsFsqqFvNt/BBwYkRv4PaysA2eBUEBSRk/img.gif"
 	}
-]
+	]
+		
+}
