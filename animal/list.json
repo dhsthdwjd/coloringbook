@@ -1,11 +1,15 @@
 [
 	{ 
+		"id": 1, "key": 1, "newStatus": 1,
+		"haveAds": 0, "premiumStatus":0,
 		"category": "animal", 
 		"name": "crocodile",
 		"rate": 1,
 		"url": "https://blog.kakaocdn.net/dn/bhmq5b/btsFsZ7ASLZ/kQCdYNvKVaLo4bMltLGvP1/img.gif"
 	},
 	{ 
+		"id": 2, "key": 2, "newStatus": 0,
+		"haveAds": 0, "premiumStatus":0,
 		"category": "animal", 
 		"name": "elephant",
 		"rate": 1,
