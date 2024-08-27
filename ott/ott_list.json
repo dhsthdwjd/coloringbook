@@ -1,11 +1,12 @@
-[
+{
+    "services": [
         {
             "name": "Netflix",
             "imageUrl": "https://i.pinimg.com/474x/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.jpg"
         },
         {
             "name": "Hulu",
-            "imageUrl": "hhttps://i.pinimg.com/474x/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.jpg"
+            "imageUrl": "https://i.pinimg.com/474x/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.jpg"
         },
         {
             "name": "Disney+",
@@ -20,3 +21,4 @@
             "imageUrl": "https://i.pinimg.com/474x/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.jpg"
         }
     ]
+}
