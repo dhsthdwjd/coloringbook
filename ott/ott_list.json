@@ -1,0 +1,22 @@
+[
+    {
+        "name": "Netflix",
+        "imageUrl": "https://example.com/netflix_image.png" // Use a URL or local resource name
+    },
+    {
+        "name": "Hulu",
+        "imageUrl": "https://example.com/hulu_image.png"
+    },
+    {
+        "name": "Disney+",
+        "imageUrl": "https://example.com/disneyplus_image.png"
+    },
+    {
+        "name": "Amazon Prime Video",
+        "imageUrl": "https://example.com/amazonprime_image.png"
+    },
+    {
+        "name": "HBO Max",
+        "imageUrl": "https://example.com/hbomax_image.png"
+    }
+]
