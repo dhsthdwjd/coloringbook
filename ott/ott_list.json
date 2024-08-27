@@ -1,22 +1,22 @@
 [
     {
         "name": "Netflix",
-        "imageUrl": "https://example.com/netflix_image.png" // Use a URL or local resource name
+        "imageUrl": "https://i.pinimg.com/originals/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.png"
     },
     {
         "name": "Hulu",
-        "imageUrl": "https://example.com/hulu_image.png"
+        "imageUrl": "https://i.pinimg.com/originals/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.png"
     },
     {
         "name": "Disney+",
-        "imageUrl": "https://example.com/disneyplus_image.png"
+        "imageUrl": "https://i.pinimg.com/originals/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.png"
     },
     {
         "name": "Amazon Prime Video",
-        "imageUrl": "https://example.com/amazonprime_image.png"
+        "imageUrl": "https://i.pinimg.com/originals/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.png"
     },
     {
         "name": "HBO Max",
-        "imageUrl": "https://example.com/hbomax_image.png"
+        "imageUrl": "https://i.pinimg.com/originals/49/50/f7/4950f767013160f90170d9a6ee0d9cb3.png"
     }
 ]
